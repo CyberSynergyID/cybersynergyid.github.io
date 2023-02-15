@@ -62,12 +62,42 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Us</title>
       <link>https://cybersynergyid.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cybersynergyid.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
+      <description>CyberSynergy is a professional ecosystem of Indonesia cybersecurity researchers. Our team of experts is dedicated to providing comprehensive and reliable cyber security solutions to protect your valuable assets from the ever-evolving threat landscape.</description>
+    </item>
+    
+    <item>
+      <title>Cortex</title>
+      <link>https://cybersynergyid.github.io/cortex/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersynergyid.github.io/cortex/</guid>
+      <description>Talent acquisitions and development through structured education and training program with updated use cases and technologies.
+Cortex Activities: Governance &amp;amp; Playbooks, Create and implement relevant cyber-resilience governance or playbooks.</description>
+    </item>
+    
+    <item>
+      <title>Education Program</title>
+      <link>https://cybersynergyid.github.io/education/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersynergyid.github.io/education/</guid>
+      <description>Talent acquisitions and development through structured education and training program with updated use cases and technologies.
+Activities: Governance &amp;amp; Playbooks</description>
+    </item>
+    
+    <item>
+      <title>Strategic Services</title>
+      <link>https://cybersynergyid.github.io/services/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cybersynergyid.github.io/services/</guid>
+      <description>VIRTUAL CHIEF SECURITY OFFICER
+Provide virtual cyber operations managed service to ensure your organization get the most reliable proactive cyber defense support:</description>
     </item>
     
   </channel>
